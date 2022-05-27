@@ -1,0 +1,336 @@
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.csproj.AssemblyReference.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Properties.Resources.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.csproj.GenerateResource.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it's base.exe.config
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it's base.exe
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it's base.pdb
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\MySql.Data.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Google.Protobuf.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ZstdNet.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\System.Memory.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\System.Buffers.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\MySql.Data.xml
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.exe.config
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.csproj.CopyComplete
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.exe
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it's base.pdb
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Lessons.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.NewLesson.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.LessonInfo.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.NewMark.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Main.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\EnvDTE.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\stdole.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Teachers.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\RdlCompile.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\RdlCompile.compiled
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Pupil.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\obj\Debug\it_s_base.Journal.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it's base.exe.config
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it's base.exe
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it's base.pdb
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\MySql.Data.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\EnvDTE.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Google.Protobuf.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ZstdNet.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\stdole.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\System.Memory.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\System.Buffers.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\MySql.Data.xml
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.csproj.AssemblyReference.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.exe.config
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Journal.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Pupil.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.LessonInfo.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Lessons.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Main.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.NewLesson.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.NewMark.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Properties.Resources.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it_s_base.Teachers.resources
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.csproj.GenerateResource.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\RdlCompile.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\RdlCompile.compiled
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.csproj.CopyComplete
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.exe
+C:\Users\dmitr\Desktop\БД\6\it's base\DataBase\obj\Debug\it's base.pdb
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it's base.exe.config
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it's base.exe
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it's base.pdb
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\EnvDTE.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Google.Protobuf.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ZstdNet.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\stdole.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\System.Memory.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\System.Buffers.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\Microsoft.MSXML.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\MySql.Data.xml
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.csproj.AssemblyReference.cache
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.exe.config
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Journal.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Pupil.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.LessonInfo.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Lessons.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Main.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.NewLesson.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.NewMark.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Properties.Resources.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it_s_base.Teachers.resources
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.csproj.GenerateResource.cache
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.csproj.CoreCompileInputs.cache
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.csproj.CopyComplete
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.exe
+C:\Users\olegw\Desktop\it's base\it's base\DataBase\obj\Debug\it's base.pdb
